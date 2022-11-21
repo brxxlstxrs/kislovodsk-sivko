@@ -1,3 +1,2 @@
 import sys
-
-sys.stdin.write('My first git-repo')
+sys.stdout.write("My first git-repo\n")
